@@ -1,0 +1,14 @@
+
+import pyttsx3
+
+''' hi i am bill gate , one cup chai please 
+'''
+
+engine = pyttsx3.init()
+engine.say("one one cup chai please")
+engine.runAndWait()
+
+engine = pyttsx3.init()
+engine.say("aaah garam hai garam hai ")
+engine.runAndWait()
+
